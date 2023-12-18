@@ -14,5 +14,5 @@
 ## **Referencia**
 
 * [SalesForce](https://www.salesforce.com/mx/cloud-computing/)
-* []()
+* [Kyocera](https://www.kyoceradocumentsolutions.es/es/smarter-workspaces/business-challenges/the-cloud/las-5-caracteristicas-del-cloud-computing-mas-relevantes-para-los-negocios.html)
 * []()
